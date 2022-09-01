@@ -7,3 +7,5 @@ Execute
 Multiple permissions
 Everybody!
 James Bond
+Look in the mirror
+Look in the mirror
