@@ -2,3 +2,4 @@ Hello World
 Let's display a file
 Confused smiley
 Let's display a file
+What about 2?
